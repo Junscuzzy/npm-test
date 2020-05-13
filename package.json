@@ -1,5 +1,13 @@
 {
     "name": "@junscuzzy/test",
     "version": "1.0.1",
-    "main": "index.js"
+    "description": "My first npm package",
+    "license": "MIT",
+    "repository": "junscuzzy/npm-test",
+    "main": "index.js",
+    "keywords": [
+        "npm", 
+        "package", 
+        "junscuzzy"
+    ]
 }

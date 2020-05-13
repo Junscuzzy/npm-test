@@ -1,3 +1,4 @@
-module.exports = function () {
-    console.log('works!')
+module.exports = function test () {
+    var message = 'works!'
+    return message
 }
